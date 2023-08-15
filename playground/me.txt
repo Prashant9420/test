@@ -1,5 +1,0 @@
-{{#user}}
-Name: Prashant
-Skills: HTML, CSS, JS, React.js
-Email: prashantpal2468@gmail.com
-{{/user}}
